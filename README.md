@@ -4,7 +4,7 @@ Realizzazione di un software in python per la gestione di un negozio di prodotti
 
 # Sistema di Gestione Inventario
 
-Questo sistema di gestione inventario è un'applicazione Python semplice che consente di tenere traccia dei prodotti, registrare vendite e calcolare profitti.
+Questo sistema di gestione inventario è un'applicazione Python che consente di tenere traccia dei prodotti, registrare vendite e calcolare profitti.
 
 ## Funzionalità
 
